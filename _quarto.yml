@@ -4,15 +4,15 @@ project:
   
 website:
   page-navigation: true
-  title: "Yujun Lian"
-  site-url: https://lianyujun.github.io
+  title: "Yanyan Zhang"
+  site-url: https://zhangyanyan.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/lianyujun/lianyujun.github.io
+  repo-url: https://github.com/zhangyanyan/zhangyanyan.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [zhangyanyan.cn](https://www.zhangyanyan.cn)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -20,20 +20,16 @@ website:
     background: "#A9CCE3"
     search: true
     right: 
-      - text: "Home"
+      - text: "主页"
         href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      - text: "论文"
+        href: 论文.qmd
+      - text: "科研项目"
+        href: 科研项目.qmd
+      - text: "荣誉与奖励"
+        href: 荣誉与奖励.qmd
       - text: "CV"
-        href: CV.pdf
+        href: CV.md
 
 format:
   html:

@@ -41,13 +41,12 @@ editor:
 
 ---
 
-image: images/生活照/春游.jpg
-image: images/生活照/东湖.jpg
-image: images/生活照/武大.jpg
-image: images/生活照/华科.jpg
-image: images/生活照/巡游.jpg
-image: images/生活照/大学.jpg
-image: images/生活照/宜家.jpg
-image: images/生活照/江滩.jpg
+![东湖](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\东湖.jpg)
+![巡游](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\巡游.jpg)
+![武大](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\武大.jpg)
+![华科](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\华科.jpg)
+![江滩](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\江滩.jpg)
+![大学](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\大学.jpg)
+![宜家](C:\Users\26985\Documents\GitHub\zhangyanyan.github.io\images\生活照\宜家.jpg)
 
 ---

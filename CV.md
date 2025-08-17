@@ -7,10 +7,13 @@ editor:
 
 ## 张艳艳个人简介
 
-张艳艳，女，博士在读。2023年毕业于华中农业大学经济管理学院，获管理学学士学位。
-目前专注于ESG、期货价格泡沫与生猪经济等领域的研究。
+张艳艳，女，博士在读。2023年毕业于华中农业大学经济管理学院，获管理学学士学位。  
+
+目前专注于ESG、期货价格泡沫与生猪经济等领域的研究。  
+
 小菜鸡努力进修中……
-永远年轻，永远热泪盈眶……
+
+保持初心，永远年轻，永远热泪盈眶……
 
 - 邮箱：<yanyanzhanghzau@163.com>
 - CSDN：<https://blog.csdn.net/weixin_48255522?spm=1010.2135.3001.5421>
@@ -34,3 +37,14 @@ editor:
 1. **Zhang, Yanyan**, and Tao Xiong. "More ESG Practices, Higher Financial Performance? The U‐Shaped Pattern in China's Agricultural and Food Firms." _Agribusiness_ (2024). [https://doi.org/10.1002/agr.21989]
 
 2. **Zhang, Yanyan**, and Tao Xiong. "ESG Decoupling and Innovation: Are China's Agri‐Food Companies Walking the Walk?" _Agribusiness_ (2024).  [https://doi.org/10.1002/agr.22059]
+
+## 照片
+
+image: images/生活照/春游.jpg
+image: images/生活照/东湖.jpg
+image: images/生活照/武大.jpg
+image: images/生活照/华科.jpg
+image: images/生活照/巡游.jpg
+image: images/生活照/大学.jpg
+image: images/生活照/宜家.jpg
+image: images/生活照/江滩.jpg

@@ -37,12 +37,11 @@ editor:
 1. **Zhang, Yanyan**, and Tao Xiong. "More ESG Practices, Higher Financial Performance? The U‐Shaped Pattern in China's Agricultural and Food Firms." Agribusiness (2024).  [https://doi.org/10.1002/agr.21989](https://doi.org/10.1002/agr.21989)
 2. **Zhang, Yanyan**, and Tao Xiong. "ESG Decoupling and Innovation: Are China's Agri‐Food Companies Walking the Walk?" Agribusiness (2024).  [https://doi.org/10.1002/agr.22059](https://doi.org/10.1002/agr.22059)
 
-## 一些照片
+## 照片——Life
 
 ![donghu](images/lifepicture/donghu.jpg)
 ![xunyou](images/lifepicture/xunyou.jpg)
 ![wuda](images/lifepicture/wuda.jpg)
-![hust](images/lifepicture/hust.jpg)
 ![jiangtan](images/lifepicture/jiangtan.jpg)
 ![daxue](images/lifepicture/daxue.jpg)
 ![yijia](images/lifepicture/yijia.jpg)

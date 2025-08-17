@@ -1,5 +1,5 @@
 ---
-title: "中文简历"
+title: "个人介绍"
 editor: 
   markdown: 
     wrap: 72
@@ -36,17 +36,3 @@ editor:
 
 1. **Zhang, Yanyan**, and Tao Xiong. "More ESG Practices, Higher Financial Performance? The U‐Shaped Pattern in China's Agricultural and Food Firms." Agribusiness (2024).  [https://doi.org/10.1002/agr.21989](https://doi.org/10.1002/agr.21989)
 2. **Zhang, Yanyan**, and Tao Xiong. "ESG Decoupling and Innovation: Are China's Agri‐Food Companies Walking the Walk?" Agribusiness (2024).  [https://doi.org/10.1002/agr.22059](https://doi.org/10.1002/agr.22059)
-
-## 照片
-
----
-
-![东湖](images/生活照/东湖.jpg)
-![巡游](images/生活照/巡游.jpg)
-![武大](images/生活照/武大.jpg)
-![华科](images/生活照/华科.jpg)
-![江滩](images/生活照/江滩.jpg)
-![大学](images/生活照/大学.jpg)
-![宜家](images/生活照/宜家.jpg)
-
----

@@ -42,7 +42,7 @@ editor:
 ![donghu](images/lifepicture/donghu.jpg)
 ![xunyou](images/lifepicture/xunyou.jpg)
 ![wuda](images/lifepicture/wuda.jpg)
-![hust](images/lifepicture/huake.jpg)
+![hust](images/lifepicture/hust.jpg)
 ![jiangtan](images/lifepicture/jiangtan.jpg)
 ![daxue](images/lifepicture/daxue.jpg)
 ![yijia](images/lifepicture/yijia.jpg)
